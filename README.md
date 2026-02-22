@@ -10,9 +10,13 @@ network, and AI environments.
 
 ## What I Do
 🔐 AI Security          — securing AI systems & intelligent agents
+
 ☁️ Cloud Security       — AWS & multi-cloud environments  
+
 🌐 Network Security     — enterprise architecture & zero trust
+
 📊 Data Security        — data risk, classification & governance
+
 🏢 Enterprise Advisor   — security transformation for large orgs
 
 ## What You'll Find Here
